@@ -1,0 +1,16 @@
+
+Magasin Rhinostore  
+	Tel:+22897759232  Adresse Adidogomé Sagbado
+=========================================================
+Nom du client : liki
+Tel du client : 
+Numéro Facture : 8205271 
+Date:08/05/2024
+=========================================================
+Nom Produit 
+Quantité
+	Prix
+=========================================================
+        
+	Haojue			10		25000000.0
+	Boeing707			5		3.925e+18
